@@ -1,0 +1,10 @@
+numpy==1.26.3
+scikit-learn==1.3.2
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
+
+
+streamlit run "C:\Users\laxmi\disease_prediction\multiple_disease_pridiction.py"
+
+
+
